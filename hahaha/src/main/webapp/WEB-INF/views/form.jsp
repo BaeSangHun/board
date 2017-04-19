@@ -15,7 +15,7 @@
 <!-- bootstrap javascript소스를 사용하기 위한 CDN주소 -->
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
- 
+ <!-- 입력화면 -->
 <script>
     $(document).ready(function(){
     //    alert('jquery test');
