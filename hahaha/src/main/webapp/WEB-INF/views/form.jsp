@@ -17,6 +17,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
  <!-- 입력화면 -->
 <script>
+//github test
     $(document).ready(function(){
     //    alert('jquery test');
     /* 입력폼 유효성 관련 요구사항
